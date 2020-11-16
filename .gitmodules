@@ -1,0 +1,3 @@
+[submodule "Code/COTS"]
+	path = Code/COTS
+	url = git@github.com:AnthonyVenables/COTS_Code.git
